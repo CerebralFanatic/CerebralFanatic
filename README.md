@@ -28,7 +28,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CerebralFanatic/CerebralFanatic/output/snake.svg" alt="Snake animation"/>
+<div align="center">
+  <img height="200" src="https://i.gifer.com/origin/dd/ddc9e0870a4d565b4bf1956849df9e57_w200.gif"  />
+</div>
 
 ###
 
